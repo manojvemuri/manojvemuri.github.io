@@ -1,0 +1,67 @@
+html,body{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+header{
+	background-color:#00004C;
+    padding:40px;
+		text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: grey;
+}
+h2{
+	font-size: 50px;
+	color: grey;
+}
+header img{
+	border-radius: 180px;
+	width: 200px;
+	border:10px solid #82a2d6;
+
+}
+.content{
+	max-width: :400px;
+	margin: 0 auto;
+	text-align: center;
+	background-color:#001942
+	font-size: 90px;
+	color: grey;
+	padding: 0 20px
+}
+
+img.Taz{
+	max-width: 100%;
+}
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+ text-align: left;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+footer{
+	padding: 40px 20px;
+	background-color: #E6E6E6;
+
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-inline-block;
+	margin: 0 5px
+
+}
